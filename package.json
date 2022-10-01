@@ -1,0 +1,16 @@
+{
+  "name": "TIGER24COM",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "TIGER24.COM เว็บแทงมวย อันดับ 1 ของเมืองไทย",
+  "keywords": [
+    "TIGER24",
+    "TIGER24.COM",
+    "เว็บแทงมวย TIGER24"
+  ],
+  "repository": "https://github.com/Richchy/TIGER24-.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
